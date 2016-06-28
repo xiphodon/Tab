@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fragment_Tab/fragment_tab.iml" filepath="$PROJECT_DIR$/Fragment_Tab/fragment_tab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tab.iml" filepath="$PROJECT_DIR$/Tab.iml" />
       <module fileurl="file://$PROJECT_DIR$/ViewPager_Tab/app.iml" filepath="$PROJECT_DIR$/ViewPager_Tab/app.iml" />
     </modules>

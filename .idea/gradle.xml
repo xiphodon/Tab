@@ -9,12 +9,14 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Fragment_Tab" />
             <option value="$PROJECT_DIR$/ViewPager_Tab" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Fragment_Tab" />
             <option value="$PROJECT_DIR$/ViewPager_Tab" />
           </set>
         </option>

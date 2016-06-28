@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             @Override
             public void onPageSelected(int position) {
 
-                resetImg();
+                resetImgs();
 
                 switch (position){
                     case 0:
@@ -136,7 +136,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onClick(View v) {
 
-        resetImg();
+        resetImgs();
 
         switch (v.getId()){
             case R.id.id_tab_weixin:
@@ -163,7 +163,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     /**
      * 将所有的图片切换为未选中的
      */
-    private void resetImg(){
+    private void resetImgs(){
         id_tab_weixin_img.setImageResource(R.drawable.tab_weixin_normal);
         id_tab_frd_img.setImageResource(R.drawable.tab_find_frd_normal);
         id_tab_address_img.setImageResource(R.drawable.tab_address_normal);
