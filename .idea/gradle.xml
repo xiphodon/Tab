@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Fragment_Tab" />
+            <option value="$PROJECT_DIR$/ViewPager_FragmentPagerAdapter_Tab" />
             <option value="$PROJECT_DIR$/ViewPager_Tab" />
           </set>
         </option>
@@ -17,6 +18,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Fragment_Tab" />
+            <option value="$PROJECT_DIR$/ViewPager_FragmentPagerAdapter_Tab" />
             <option value="$PROJECT_DIR$/ViewPager_Tab" />
           </set>
         </option>

@@ -1,1 +1,1 @@
-include ':ViewPager_Tab', ':Fragment_Tab'
+include ':ViewPager_Tab', ':Fragment_Tab', ':ViewPager_FragmentPagerAdapter_Tab'
